@@ -1,6 +1,6 @@
 # ⚡ EV Charging Congestion & Reservation Intelligence
 
-**Live Dashboard:** - https://shish-ev-intelligence-muj.streamlit.app/
+**Live Dashboard:** - https://Ashish-ev-intelligence-muj.streamlit.app/
 
 ## 📌 Overview
 An interactive, data-driven platform designed to help EV drivers and charging-network operators understand charging demand, identify congestion, and simulate capacity optimization. Built with Python and Streamlit, this application leverages machine learning and queueing theory to predict network demand and evaluate reservation priority rules.
